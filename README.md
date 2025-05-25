@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
   - Social good tech initiatives
 
 - 📫 How to reach me:
-  - 📧 aswinsuresh010@gmail.com
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/aswinsuresh010/)
-  - 🌐 [Portfolio Website](https://aswinsureshportfolio.netlify.app/)
+  - 📧 aswinsuresh397@gmail.com
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/aswin-suresh-448785273/)
+  - 🌐 [Portfolio Website](https://aswin397.github.io/Aswin-Portfolio-/)
 
 - 😄 Pronouns: He/Him
 - 🔥 Featured Projects
@@ -42,7 +42,9 @@ You can click the Preview link to take a look at your changes.
 📈 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=aswin397&show_icons=true&theme=tokyonight&count_private=true&hide=issues&hide_border=false" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin397&layout=compact&theme=tokyonight&hide_border=false" /> </p>
 🌍 Let's Connect!
-<p> <a href="https://linkedin.com/in/aswinsuresh010" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a> <a href="mailto:aswinsuresh010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://github.com/aswin397"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a> <a href="https://aswinsureshportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=61DAFB" /></a> </p>
+<p> <a href="https://www.linkedin.com/in/aswin-suresh-448785273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a> <a href="mailto:aswinsuresh397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://github.com/aswin397"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a> <a href="https://aswin397.github.io/Aswin-Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=61DAFB" /></a> </p>
+
+
 “Push yourself, because no one else is going to do it for you.”
 ---
 
